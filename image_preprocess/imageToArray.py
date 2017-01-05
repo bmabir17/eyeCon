@@ -8,5 +8,5 @@ def process_image(argv):
     img = Image.open( argv)
     img.load()
     data = np.asarray( img, dtype="int32")
-    
+    new data=1
     
